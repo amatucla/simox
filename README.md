@@ -15,4 +15,4 @@ The device has four colored buttons, each producing a particular tone when it is
 
 ## Demo
 
-http://simox.palasaka.net/
+http://simox.palasaka.net
