@@ -12,3 +12,7 @@ The device has four colored buttons, each producing a particular tone when it is
 
   - Cool graphics and audio effects.
   - Not the first for Firefox OS Plattform, but maybe the best version so far.
+
+## Demo
+
+http://simox.palasaka.net/
